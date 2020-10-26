@@ -1,0 +1,20 @@
+
+.whatsapp-link {
+      position: fixed;
+      width: 80px;
+      height: 80px;
+      bottom: 60px;
+      right: 60px;
+      background-color: #25d366;
+      color: #fff;
+      border-radius: 50px;
+      text-align: center;
+      font-size: 50px;
+      box-shadow: 1px 1px 2px #888;
+      z-index: 1000;
+    }
+ 
+    .fa-whatsapp {
+      margin-top: 16px;
+    }
+
