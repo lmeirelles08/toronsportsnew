@@ -2,6 +2,8 @@
 	margin:0;
 	padding:0;
 	box-sizing: border-box;
+
+	
 }
 
 html,body{
@@ -79,4 +81,10 @@ html,body{
 
 a{
 	color: white;
+}
+
+h3{
+
+font-family: 'Squada One', cursive;
+	
 }
